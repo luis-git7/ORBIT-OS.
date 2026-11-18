@@ -44,3 +44,9 @@ Project:
 ORBIT OS is a DIY maker project. The hardware and software can be modified and improved.
 
 Have fun building!
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/0f3b440a-5b1e-40f9-ad3c-e36b484dca99" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/851bc020-34df-4464-9c67-971c83947cf8" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/cc81bca1-26bd-4383-acd8-a27ac81f34cc" />
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/fa08bbfc-646f-4be7-86b3-c9e663a31472" />
+<img width="750" height="1334" alt="image" src="https://github.com/user-attachments/assets/d99fb0b2-e893-4556-ab60-abf19dba3e43" />
+<img width="750" height="1334" alt="image" src="https://github.com/user-attachments/assets/653ceb9d-74db-4feb-b361-65bb4621d073" />
